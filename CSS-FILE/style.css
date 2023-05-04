@@ -1,0 +1,112 @@
+/*section1*/
+
+.section1{
+    background-color: rgb(20, 202, 168);
+    color: white;
+}
+
+.section1 img{
+    height: 15rem;
+    width: 15rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+div.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.section1 div.hr{
+    width: 4rem;
+    height: 4px;
+    background-color: white;
+}
+
+div.icon>i{
+    margin-left:0.5rem ;
+    margin-right: 0.5rem;
+    font-size: 1.67rem;
+}
+
+div.list{
+    margin-bottom: 2rem;
+}
+
+/*Section2*/
+
+.section2 .row{
+    flex-wrap: wrap;
+}
+
+.section2 img{
+    height: 100%;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.section2 .col-12{
+    color: black;
+    margin-bottom: -1.5rem ;
+}
+
+.section2 div.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.section2 h2{
+    margin-top: 2rem;
+    margin-bottom: 1.2rem;
+}
+
+.section2 div.hr{
+    width: 4rem;
+    height: 4px;
+    background-color: black;
+}
+
+/*Section3*/
+
+.section3{
+    background-color: rgb(20, 202, 168);
+    color: white;
+    margin-top: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.section3 div.hr{
+    width: 4rem;
+    height: 4px;
+    background-color: white;
+}
+
+.col-6{
+    margin-bottom: 2.5rem;
+    text-align: start;
+}
+
+.section3 div.download-button{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    margin: 0 auto;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+}
+
+.section3 h2{
+    margin-top: 2rem;
+    margin-bottom: 1.2rem;
+}
