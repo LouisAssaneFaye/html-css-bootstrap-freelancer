@@ -88,10 +88,10 @@ div.list{
     background-color: white;
 }
 
-.col-6{
+.section3 .start{
     margin-bottom: 2.5rem;
-    text-align: start;
 }
+
 
 .section3 div.download-button{
     display: inline-block;
